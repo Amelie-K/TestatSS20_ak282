@@ -1,6 +1,12 @@
 Codebuch
 
-Vertex-Attribute
+Edge-Attributes (Mitgliedschaft, ungerichtet)
+
+from (ID)
+to (alle Mitglieschaften der Person)
+
+
+Vertex-Attributes
 
 type (da es ein Two-Mode Netzwerk ist)
 0: Person
@@ -56,4 +62,19 @@ state (Bundesland)
 15: Schleswig-Holstein
 16: Thüringen
 
+opinion (Haltung zu Kohleenergie)
+1: Kohlebefürworter
+2: Für Kohleausstieg
 
+education (höchster Bildungsabschluss)
+1: Ausbildung 
+2: Abitur
+3: Bachelor-Studium
+4: Master-Studium
+5: Dissertation
+6: Professur
+
+admission (Aufnahme in Kommission)
+1: 2018
+2: 2019
+3: 2020
