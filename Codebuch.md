@@ -5,6 +5,24 @@ Edge-Attributes (Mitgliedschaft, ungerichtet)
 from (ID)
 to (alle Mitglieschaften der Person)
 
+duration (Dauer der Mitgliedschaft)
+1: weniger als 1 Jahr
+2: 1-4 Jahre
+3: 5-9 Jahre
+4: 10-19 jahre
+5: 20-29 Jahre
+6: 30-39 Jahre
+7: über 40 Jahre
+
+relation 
+1: Vorstand
+2: Mitglied
+3: LeiterIn
+4: GeschäftsführerIn
+5: DirektorIn
+6: PräsidentIn
+7: VorsitzendeR
+8: MitarbeiterIn
 
 Vertex-Attributes
 
@@ -78,3 +96,12 @@ admission (Aufnahme in Kommission)
 1: 2018
 2: 2019
 3: 2020
+
+company 
+1:
+
+association
+1:
+
+organisation 
+1:
