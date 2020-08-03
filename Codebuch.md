@@ -23,6 +23,7 @@ relation
 6: PräsidentIn
 7: VorsitzendeR
 8: MitarbeiterIn
+9: MinisterIn
 
 Vertex-Attributes
 
