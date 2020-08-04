@@ -27,6 +27,7 @@ relation
 10: Staatssekretärin
 11: Vertreterin
 12: Aufsichtsrat
+13: KoordinatorIn
 
 Vertex-Attributes
 
