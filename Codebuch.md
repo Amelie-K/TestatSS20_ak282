@@ -24,6 +24,9 @@ relation
 7: VorsitzendeR
 8: MitarbeiterIn
 9: MinisterIn
+10: Staatssekretärin
+11: Vertreterin
+12: Aufsichtsrat
 
 Vertex-Attributes
 
