@@ -91,10 +91,6 @@ education (höchster Bildungsabschluss)
 5: Diplom
 6: Staatsexamen
 7: Dissertation
-8: Professur
+8: ProfessorIn
 
-admission (Aufnahme in Kommission)
-1: 2018
-2: 2019
-3: 2020
 
