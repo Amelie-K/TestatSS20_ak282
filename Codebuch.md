@@ -1,5 +1,6 @@
 
 In diesem Netzwerk geht es um die Beziehungen der Mitglieder der Kohlekommission zu Organisationen, Vereinen, Unternehmen und Verbänden außerhalb der Kommission.
+Die Informationen zu einzelnen Mitgliedern stammen von: https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission , sowie von: https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html
 
 Codebuch
 
