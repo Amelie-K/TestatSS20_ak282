@@ -1,3 +1,6 @@
+
+In diesem Netzwerk geht es um die Beziehungen der Mitglieder der Kohlekommission zu Organisationen, Vereinen, Unternehmen und Verbänden außerhalb der Kommission.
+
 Codebuch
 
 Edge-Attributes (Mitgliedschaft, ungerichtet)
